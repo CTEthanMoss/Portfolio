@@ -1,3 +1,17 @@
-Program to test the efficency of sorting algorithms BubbleSort, InsertionSort, and SelectionSort 
-Created a FileReader class, to take integers from text file and add them to an arraylist 
-Created an AlgorithmTester class which implements the 3 algorithms listed above, and uses comparison and exchange variables to view number of times algorithms compare and exchange integers.
+Hi there! 👋 I'm Ethan Moss
+🎓 About Me
+I'm a Computer Science student at Central Connecticut State University, and I am passionate about using technology to solve real-world problems. I am looking to gain more hands-on project experience, and am constantly exploring new technologies and their day to day applications
+🚀 Skills
+Languages: Java (OOP), HTML, CSS
+
+🌱 I'm currently learning
+Cloud computing (Microsoft Azure)
+Database structures and algorithms
+
+📚 Interests
+Cloud computing
+Using programming to make day to day activities more efficient
+
+🤝 Connect with Me
+Email: ctethanmoss@gmail.com
+Phone: (860) 692-2216
